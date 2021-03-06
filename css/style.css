@@ -1,0 +1,43 @@
+body{
+    background-image: url(../images/coll2.jpg);
+    background-position: center;
+    background-size: contain;
+    color: #555;
+    font-size: 16pt;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: none;
+
+}
+
+#main-header{
+    background-color: none;
+    color: #fff;
+}
+
+
+#main{
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #fff;
+    border: 2px #f4f4f4 solid;
+    padding: 20px;
+    margin-top: 40px;
+    margin-right: 60px;
+    float: left;
+    width: 25%;
+}
+
+#main-footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #fff;   
+    text-align: center;
+    margin-top: 170px;
+}
